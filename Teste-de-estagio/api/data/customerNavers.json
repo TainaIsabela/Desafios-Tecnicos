@@ -1,0 +1,30 @@
+{
+    "customerNavers": {
+      "data": [
+        {
+          "id": "1",
+          "name": "Gabriel",
+          "birthDate": "1986-10-23",
+          "job_role": "Desenvolvedor",
+          "admission_date": "2010-02-09",
+          "Projects": "5da9ea6732123433432"
+        },
+        {
+          "id": "2",
+          "name": "Juliano",
+          "birthDate": "1989-03-03",
+          "Job_role": "Analista de Sistemas",
+          "admission_date": "2014-12-10",
+          "Projects": "5da9ea6732123433432"
+        },
+        {
+          "id": "3",
+          "name": "Thiago",
+          "birthDate": "1994-09-27",
+          "Job_role": "Engenheiro de Software",
+          "admission_date": "2018-09-29",
+          "Projects": "5da9ea6732123433432"
+        }
+      ]
+    }
+  }
